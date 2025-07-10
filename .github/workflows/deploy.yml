@@ -11,7 +11,7 @@ jobs:
     env:
       MONGODB_CLUSTER_ADDRESSES: cluster0.o7bqsdc.mongodb.net
       MONGODB_USERNAME: jacebkey
-      MONGODB_PASSWORD: dtoNiwsMDgUYVcj4
+      MONGODB_PASSWORD: yqOm4YotLk1pFNQT
       PORT: 3000
     runs-on: ubuntu-latest
     steps:
