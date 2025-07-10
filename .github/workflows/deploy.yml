@@ -12,7 +12,8 @@ jobs:
       MONGODB_CLUSTER_ADDRESSES: cluster0.o7bqsdc.mongodb.net
       MONGODB_USERNAME: jacebkey
       MONGODB_PASSWORD: yqOm4YotLk1pFNQT
-      PORT: 3000
+      PORT: 8080
+    environment: testing
     runs-on: ubuntu-latest
     steps:
       - name: Get Code
